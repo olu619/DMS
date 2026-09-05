@@ -60,13 +60,13 @@ Always default to Tier 1 for all paid ads and content unless the brief explicitl
 ## Tech Stack
 
 - **GoHighLevel (GHL):** CRM, forms, calendars, automations, pipelines, chat widget, Stripe, funnel builder
-- **Arcads:** AI video ad creative generation (£59/month, ~10 videos/month)
+- **Higgsfield:** AI video ad creative generation, Starter plan ($19/month ≈ £15/month, 270 credits) — replaced Arcads Aug 2026 on cost (Arcads had risen to ~$110/month); uses Higgsfield's Soul feature to lock a consistent avatar across ads, Kling-tier generation for straightforward talking-head scripts to keep credit spend low
 - **Meta Ads Manager:** 3-campaign structure – Awareness (£4/day, Video Views, cold), Retargeting (£2/day, Traffic), Conversion (£2/day, Leads)
 - **WordPress:** GoDaddy cPanel, Hello Elementor theme, Elementor free, Cloudflare DNS
 - **Poptin:** Popup-triggered calendar embeds
 - **Loom:** Screen share + picture-in-picture for VSL Scene 5
 
-**Monthly cost baseline:** Arcads £59 + Meta ads £240 + GHL £97 = £396/month
+**Monthly cost baseline:** Higgsfield ~£15 + Meta ads £240 + GHL £97 = ~£352/month
 
 ---
 
